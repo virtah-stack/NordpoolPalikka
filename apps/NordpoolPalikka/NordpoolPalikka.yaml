@@ -1,5 +1,5 @@
 nordpool_palikka:
-  module: nordpool_palikka
+  module: NordpoolPalikka
   class: NordpoolPalikka
 
   # Nord Pool -integraation config entry
