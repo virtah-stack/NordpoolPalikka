@@ -1,6 +1,6 @@
-nordpool_price_block:
-  module: nordpool_price_block
-  class: NordpoolPriceBlock
+nordpool_palikka:
+  module: nordpool_palikka
+  class: NordpoolPalikka
 
   # Nord Pool -integraation config entry
   # (Kehitystyökalut > Toiminnot, valitse Nord Pool -toiminto, katso YAML)
@@ -23,5 +23,5 @@ nordpool_price_block:
   history_retention_hours: 2  # kuinka paljon menneisyyttä säilytetään graafia varten
 
   # Tallennuspolut
-  state_file: "/config/appdaemon/apps/nordpool_price_block/state.json"
+  state_file: "/config/appdaemon/apps/NordpoolPalikka/state.json"
   public_json_file: "/config/www/nordpool_price_series.json"
