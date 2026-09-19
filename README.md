@@ -1,0 +1,2 @@
+# NordpoolPalikka
+Pörssisähkön kustannuslaskentaa
