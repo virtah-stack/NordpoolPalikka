@@ -32,7 +32,7 @@ import hassapi as hass
 LOCAL_TZ = ZoneInfo("Europe/Helsinki")
 
 
-class NordpoolPriceBlock(hass.Hass):
+class NordpoolPalikka(hass.Hass):
 
     def initialize(self):
         # --- konfiguraatio (apps.yaml) ---
